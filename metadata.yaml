@@ -1,0 +1,36 @@
+_repo: Roister-Doister--13-Written-probably-also-represented-before-1553.-Carefully-edited-from-the-__21350
+_version: 0.1.0
+alternative_title: Ralph Roister Doister
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Udall, Nicholas
+    birthdate: 1505
+    deathdate: 1556
+    gutenberg_agent_id: '9875'
+    url: http://www.gutenberg.org/2009/agents/9875
+    wikipedia: http://en.wikipedia.org/wiki/Nicholas_Udall
+  editor:
+    agent_name: Arber, Edward
+    birthdate: 1836
+    deathdate: 1912
+    gutenberg_agent_id: '3122'
+    url: http://www.gutenberg.org/2009/agents/3122
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Arber
+description: ''
+gutenberg_issued: '2007-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama (Comedy)'
+- !lcc 'PR'
+title: "Roister Doister\r\nWritten, probably also represented, before 1553. Carefully\
+  \ edited from the unique copy, now at Eton College"
+url: http://www.gutenberg.org/ebooks/21350
