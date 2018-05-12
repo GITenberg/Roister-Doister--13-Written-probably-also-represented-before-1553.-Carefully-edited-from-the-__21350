@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3122
     wikipedia: http://en.wikipedia.org/wiki/Edward_Arber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21350#Roister-Doister--13-Written-probably-also-represented-before-1553.-Carefully-edited-from-the-_
 gutenberg_issued: '2007-05-07'
 gutenberg_type: Text
 identifiers:
